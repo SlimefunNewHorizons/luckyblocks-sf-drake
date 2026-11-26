@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> **MOVED TO DRAKES-SUITES (ARCHIVED):** This repository has been consolidated into [`SlimefunNewHorizons/Drakes-Suites`](https://github.com/SlimefunNewHorizons/Drakes-Suites) under module **`drakes-combat`** (`com.drakescraft.suites.combat.luckyblocks.LuckyBlocksModule`). Standalone builds and workflows have been retired in accordance with the StarSuites architecture standard.
+
 <!-- credits:start -->
 > **Credits & license.** Port and maintenance by [JackStar6677-1](https://github.com/JackStar6677-1) and [DrakesCraft Labs](https://github.com/SlimefunNewHorizons). Original authors: being verified, see docs/UPSTREAM_ATTRIBUTION.md. Upstream license: **GNU General Public License v3.0** (see [LICENSE](LICENSE)). Details: [docs/UPSTREAM_ATTRIBUTION.md](docs/UPSTREAM_ATTRIBUTION.md) · Policy: [Rights & Attribution](https://github.com/SlimefunNewHorizons/.github/blob/main/RIGHTS_AND_ATTRIBUTION.md). Independent community project, not affiliated with or endorsed by the original authors or the official Slimefun team.
 >

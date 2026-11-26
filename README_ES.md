@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> **MOVIDO A DRAKES-SUITES (ARCHIVADO):** Este repositorio ha sido consolidado dentro de [`SlimefunNewHorizons/Drakes-Suites`](https://github.com/SlimefunNewHorizons/Drakes-Suites) en el módulo **`drakes-combat`** (`com.drakescraft.suites.combat.luckyblocks.LuckyBlocksModule`). Los builds independientes y workflows han sido retirados conforme al estándar arquitectónico StarSuites.
+
 <div align="center">
 
   <img src="https://raw.githubusercontent.com/SlimefunNewHorizons/luckyblocks-sf-drake/main/banner.svg" alt="luckyblocks-sf-drake Banner" width="920" />
